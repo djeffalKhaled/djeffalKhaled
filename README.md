@@ -1,5 +1,5 @@
 ## 👋 About Me:
-Hi, I'm Khaled! I'm a passionate computer scientist and software engineer with a love for game development 🎮, music creation 🎵, pixel art 🎨, and 3D modeling 🚀. I'm down-bad for any peices of code, unironically.
+Hi, I'm Khaled! I'm a passionate computer scientist and software engineer with a love for game development 🎮, music creation 🎵, pixel art 🎨, and 3D modeling 🚀. I'm down-bad for any peices of code! unironically.
 ### 🧬 Studies:
 I'm currently a computer science student at university. I'm mainly focusing on improving my full stack development capabilities, alongside working on some basic projects.
 ### Skills
