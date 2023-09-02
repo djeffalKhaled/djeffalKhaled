@@ -1,15 +1,28 @@
-- 👋 Hi, I’m Khaled, Computer Science student at USTHB. I'm a C# and Java Software Developer specialising in software engineering and game development. 💻💻💻
-- 🧬 I’m interested in both science and art, and my diverse skillset is a proof of that. I'm capable at 3D modeling and pixel art, and I have a musical talent in which I compose many sort of auditory delight. 
-- 🌱 I’m currently learning full stack web development, alongside my bachelor studies in University at USTHB.
-- 💞️ I’m looking to collaborate on any kinds of project of all things as long as it requires creativity, most spicificly game development and art.
-- 📫 You can reach me out on my linkedin profile!
+## 👋 About Me:
+Hi, I'm Khaled! I'm a passionate computer scientist and software engineer with a love for game development 🎮, music creation 🎵, pixel art 🎨, and 3D modeling 🚀. I'm down-bad for any peices of code, unironically.
+### 🧬 Studies:
+I'm currently a computer science student at university. I'm mainly focusing on improving my full stack development capabilities, alongside working on some basic projects.
+### Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### Technologies
+Unity 2D and 3D | .Net Framework | mySQL | Blender
+### Connect with Me
+🌐 [LinkedIn](https://www.linkedin.com/in/djeffalkhaled/)
 
-- 🖥️ Langues and Framework skills:
-    -> C, C#, Java, Python, Javascript, CSS, HTML.
-    -> Unity, .Net Framework, mySQL, Blender.
 
-<!---
-djeffalKhaled/djeffalKhaled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
 
