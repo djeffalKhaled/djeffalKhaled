@@ -10,10 +10,6 @@ CS Student
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-### Technologies
-Unity 2D and 3D | .Net Framework | mySQL | Blender
-### Connect with Me
-🌐 [LinkedIn](https://www.linkedin.com/in/djeffalkhaled/)
 
 
 
